@@ -23,4 +23,4 @@ void draw(){
     rect(0, 0, 40, height);
     rect(440, 0, 40, height);
   }
-}
+} 
